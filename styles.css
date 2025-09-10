@@ -459,7 +459,7 @@
 /* Mirrors + Frames Page */
 /* Section 1 */
 .initial-landing-mirrors {
-  background-image: url("./assets/images/mirrors+frames/Framed\ Mirrorr\ 2.webp");
+  background-image: url("./assets/images/mirrors+frames/mirror-landing-bg.webp");
   background-position: center;
   background-size: cover;
 }
@@ -1466,6 +1466,7 @@ nav div {
   grid-column: 2/3;
   grid-row: 2/3;
 }
+
 
 
 
