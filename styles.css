@@ -433,7 +433,15 @@
   }
 }
 
+.explore-products img{
+  width: 100%;
+}
+@media(min-width: 1200px) {
+  .explore-products img {
+    width: 95%;
+  }
 
+}
 
 
 /* Section 4 */
@@ -1592,4 +1600,5 @@ nav div {
   .terms-policy-body {
     margin-top: 100px !important;
   }
+
 }
