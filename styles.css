@@ -748,6 +748,26 @@ svg {
   }
 } */
 
+.arrow-up-icon {
+  position: absolute;
+   bottom: 10%; 
+   z-index: 9999; 
+   right: 8%; 
+   background-color: #939393;
+}
+
+@media(max-width: 767px){
+  .arrow-up-icon{
+    bottom: 15%;
+  }
+}
+
+@media(max-width: 575px){
+  .arrow-up-icon{
+    bottom: 6%;
+  }
+}
+
 nav div {
   width: 95% !important;
 }
